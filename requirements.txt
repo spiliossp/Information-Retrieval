@@ -1,0 +1,19 @@
+For the python script in order to sort the data: 
+    * Pandas library 
+
+Jar files for the project : 
+    * commons-lang3-3.12.0.jar
+    * lucene-analysis-common-9.10.0.jar
+    * lucene-demo-9.10.0.jar
+    * lucene-core-9.10.0.jar
+    * lucene-queries-9.10.0.jar
+    * lucene-queryparser-9.10.0.jar
+    * lucene-memory-9.10.0.jar
+    * lucene-highlighter-9.10.0.jar
+
+Java SDK Version:
+    * Java 11 version or later
+
+For more information, please check the Lucene's library documentation:
+    * https://lucene.apache.org/core/9_10_0/index.html  (Documentation) 
+    * https://lucene.apache.org/core/index.html         (General instructions)

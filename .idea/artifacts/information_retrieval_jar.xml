@@ -1,0 +1,18 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="information_retrieval:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/information_retrieval_jar</output-path>
+    <root id="archive" name="information_retrieval.jar">
+      <element id="module-output" name="information_retrieval" />
+      <element id="extracted-dir" path="$USER_HOME$/OneDrive/Desktop/Folders/lucene/OpenCSV/opencsv-5.9.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/commons-lang3-3.12.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/OneDrive/Desktop/Folders/lucene/lucene-9.10.0/modules/lucene-queryparser-9.10.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/OneDrive/Desktop/Folders/lucene/lucene-9.10.0/modules/lucene-core-9.10.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/OneDrive/Desktop/Folders/lucene/lucene-9.10.0/modules/lucene-memory-9.10.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/OneDrive/Desktop/Folders/lucene/lucene-9.10.0/modules/lucene-analysis-common-9.10.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/OneDrive/Desktop/Folders/lucene/lucene-9.10.0/modules/lucene-highlighter-9.10.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/OneDrive/Desktop/Folders/lucene/lucene-9.10.0/modules/lucene-queries-9.10.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/OneDrive/Desktop/Folders/lucene/lucene-9.10.0/modules-thirdparty/opennlp-tools-1.9.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/OneDrive/Desktop/Folders/lucene/lucene-9.10.0/modules/lucene-demo-9.10.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
